@@ -1,5 +1,9 @@
 # Ex-6: Trainable Layers in Neural Networks
-
+## Solution Submission screenshots
+1. Commit pass
+![Alt text](<commit_pass.png>)
+2. Remote test pass
+![Alt text](<remote_pass.png>)
 ## Overview
 In this exercise, you will learn to create and modify neural network layers.
 
